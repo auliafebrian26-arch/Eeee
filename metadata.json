@@ -1,0 +1,6 @@
+{
+  "name": "SI-PTM Posyandu",
+  "description": "Sistem Informasi Skrining dan Pelayanan Penyakit Tidak Menular (PTM) Posyandu dan Puskesmas Usia Produktif dengan Ekspor Excel dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
